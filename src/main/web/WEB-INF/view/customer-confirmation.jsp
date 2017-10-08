@@ -17,7 +17,10 @@
     <h1>Liesbeth Spring mvc: customer confirmation</h1>
 
     <p>the customer firstName ${customer.firstName}</p>
-    <p>the customer lastName  ${customer.lastName}</p>
+    <p>the customer lastName ${customer.lastName}</p>
+    <p>the customer free passes ${customer.freePasses}</p>
+    <p>the customer postcode ${customer.postalCode}</p>
+
 
 </div>
 
