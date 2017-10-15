@@ -20,6 +20,7 @@
     <p>the customer lastName ${customer.lastName}</p>
     <p>the customer free passes ${customer.freePasses}</p>
     <p>the customer postcode ${customer.postalCode}</p>
+    <p>the customer course code ${customer.courseCode}</p>
 
 
 </div>
